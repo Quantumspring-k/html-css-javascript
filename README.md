@@ -1,3 +1,3 @@
 # html-css-javascript
 
-html rar önceden öğrenmek amaçlı yapılmıştır .
+html rar önceden öğrenmek amaçlı yapılmıştır .yenilenecektir.
